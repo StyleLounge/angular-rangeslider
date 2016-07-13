@@ -1,8 +1,8 @@
 {
   "name": "angular-rangeslider",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "\"Angular RangeSlider is a directive that creates an interactive slider that allows a user to change model values.\"",
-  "main": "index.html",
+  "main": "angular.rangeSlider.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
